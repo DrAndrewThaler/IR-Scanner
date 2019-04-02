@@ -30,8 +30,6 @@ In addition, you will need a basic soldering set-up and a few short wires.
 
 2. Solder the standard header face down to the OLED display board. 
 
-![]()*image*
-
 3. Snip the red battery wire halfway through it's length and solder it to the terminals of the slide switch (endure one end of the wire is soldered to the middle terminal. Use a little super glue to attach the seitch to the edge of the board. 
 
 ![]()*image*
@@ -44,7 +42,7 @@ In addition, you will need a basic soldering set-up and a few short wires.
 
 ![]()*image*
 
-6. Download the [IRLib2]() Library and install it in Arduino IDE. Flash the [IRSniffer.ino]() source code to the Adafruit M0. 
+6. Download the [IRLib2](https://github.com/cyborg5/IRLib2) Library and install it in Arduino IDE. Flash the [IRSniffer.ino](https://github.com/SouthernFriedScientist/IR-Scanner/blob/master/IRSniffer.ino) source code to the Adafruit M0. 
 
 7. 3D print the case and seal everything in with M3 screws. Use a dab of super glue to keep everything from moving around. 
 
