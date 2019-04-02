@@ -2,9 +2,9 @@
 
 This is a basic Arduino-powered device to quickly decode signals from infrared remote controls so that you can better understand how different devices talk to each other and create your own custom remotes. 
 
-![]()*image goes here*
+![](https://github.com/SouthernFriedScientist/IR-Scanner/blob/master/Images/IMG_20190329_184553.jpg)*IR Scanner reading a Visio Remote*
 
-This simple device uses an Adafruit Feather M0 Proto Board and OLED display shield. Assembly requires basic soldering. House the entire unit in a handy 3D-printable case. 
+This simple device uses an Adafruit Feather M0 Proto Board and OLED display shield. Assembly requires basic soldering. House the entire unit in a handy 3D-printable case. This uses a universal library, so should be able to read most brands of remote control. 
 
 ## Bill of Materials
 
